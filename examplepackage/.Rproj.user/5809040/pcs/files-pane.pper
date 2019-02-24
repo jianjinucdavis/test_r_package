@@ -1,0 +1,9 @@
+{
+    "path" : "~/data_science_projects/test_r_package/examplepackage",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

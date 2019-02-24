@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1551043069724.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3370529146",
+    "id" : "FFFD6125",
+    "lastKnownWriteTime" : 1551044479,
+    "last_content_update" : 1551044479838,
+    "path" : "~/data_science_projects/test_r_package/examplepackage/R/test.R",
+    "project_path" : "R/test.R",
+    "properties" : {
+        "cursorPosition" : "9,3",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
