@@ -1,5 +1,6 @@
 #' plot y as a function of x
 #'
+#' this function plot y as a function of x
 #' @param n size of x.
 #' @param min min of x.
 #' @param max max of x.
